@@ -667,6 +667,7 @@
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = brandnewreactnative/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 2.0;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -693,6 +694,7 @@
 				DEVELOPMENT_TEAM = ZG2NHJ72MY;
 				INFOPLIST_FILE = brandnewreactnative/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 2.0;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
